@@ -1,0 +1,53 @@
+body {
+    margin: 10px;
+}
+
+.info_index {
+    width: 100px;
+    height: 23px;
+    border-radius: 2px;
+    margin: 5px;
+    text-align: center;
+    color: white;
+    font-size: 0.8rem;
+}
+
+.public_repos {
+    background-color: #00ace6;
+}
+
+.gists {
+    background-color:#bfbfbf
+    ;
+}
+
+.followers {
+    background-color:#00cc99
+    ;
+}
+
+.following {
+    background-color:#009999
+
+    ;
+}
+
+
+.flex {
+    display: flex;
+}
+
+.flex2 {
+    display: flex;
+
+    justify-content: space-evenly;
+}
+
+
+.margin-right {
+    margin-right: 20px;
+}
+
+.item {
+    margin: 10px;
+}
