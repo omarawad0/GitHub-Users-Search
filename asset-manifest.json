@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/GitHub-users-search/static/css/main.71d48980.chunk.css",
-    "main.js": "/GitHub-users-search/static/js/main.ead9277d.chunk.js",
-    "main.js.map": "/GitHub-users-search/static/js/main.ead9277d.chunk.js.map",
-    "runtime-main.js": "/GitHub-users-search/static/js/runtime-main.9383ec10.js",
-    "runtime-main.js.map": "/GitHub-users-search/static/js/runtime-main.9383ec10.js.map",
-    "static/js/2.e5659f06.chunk.js": "/GitHub-users-search/static/js/2.e5659f06.chunk.js",
-    "static/js/2.e5659f06.chunk.js.map": "/GitHub-users-search/static/js/2.e5659f06.chunk.js.map",
-    "index.html": "/GitHub-users-search/index.html",
-    "static/css/main.71d48980.chunk.css.map": "/GitHub-users-search/static/css/main.71d48980.chunk.css.map",
-    "static/js/2.e5659f06.chunk.js.LICENSE.txt": "/GitHub-users-search/static/js/2.e5659f06.chunk.js.LICENSE.txt"
+    "main.css": "/GitHub-Users-Search/static/css/main.71d48980.chunk.css",
+    "main.js": "/GitHub-Users-Search/static/js/main.2be80120.chunk.js",
+    "main.js.map": "/GitHub-Users-Search/static/js/main.2be80120.chunk.js.map",
+    "runtime-main.js": "/GitHub-Users-Search/static/js/runtime-main.8642d15c.js",
+    "runtime-main.js.map": "/GitHub-Users-Search/static/js/runtime-main.8642d15c.js.map",
+    "static/js/2.de70b854.chunk.js": "/GitHub-Users-Search/static/js/2.de70b854.chunk.js",
+    "static/js/2.de70b854.chunk.js.map": "/GitHub-Users-Search/static/js/2.de70b854.chunk.js.map",
+    "index.html": "/GitHub-Users-Search/index.html",
+    "static/css/main.71d48980.chunk.css.map": "/GitHub-Users-Search/static/css/main.71d48980.chunk.css.map",
+    "static/js/2.de70b854.chunk.js.LICENSE.txt": "/GitHub-Users-Search/static/js/2.de70b854.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9383ec10.js",
-    "static/js/2.e5659f06.chunk.js",
+    "static/js/runtime-main.8642d15c.js",
+    "static/js/2.de70b854.chunk.js",
     "static/css/main.71d48980.chunk.css",
-    "static/js/main.ead9277d.chunk.js"
+    "static/js/main.2be80120.chunk.js"
   ]
 }
