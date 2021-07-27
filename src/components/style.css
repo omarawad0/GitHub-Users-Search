@@ -1,53 +1,61 @@
 body {
-    margin: 10px;
+  margin: 10px;
+  background-color: #fff9f9;
 }
 
 .info_index {
-    width: 100px;
-    height: 23px;
-    border-radius: 2px;
-    margin: 5px;
-    text-align: center;
-    color: white;
-    font-size: 0.8rem;
+  width: 100px;
+  height: 23px;
+  border-radius: 2px;
+  margin: 5px;
+  text-align: center;
+  color: white;
+  font-size: 0.8rem;
 }
 
 .public_repos {
-    background-color: #00ace6;
+  background-color: #00ace6;
 }
 
 .gists {
-    background-color:#bfbfbf
-    ;
+  background-color: #bfbfbf;
 }
 
 .followers {
-    background-color:#00cc99
-    ;
+  background-color: #00cc99;
 }
 
 .following {
-    background-color:#009999
-
-    ;
+  background-color: #009999;
 }
 
-
 .flex {
-    display: flex;
+  display: flex;
 }
 
 .flex2 {
-    display: flex;
+  display: flex;
 
-    justify-content: space-evenly;
+  justify-content: space-evenly;
 }
 
-
 .margin-right {
-    margin-right: 20px;
+  margin-right: 20px;
 }
 
 .item {
-    margin: 10px;
+  margin: 10px;
+}
+
+.wrapper {
+  width: 700px;
+  margin: auto;
+  background-color: aliceblue;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.wrapper .results {
+  justify-content: space-between;
+  margin-top: 46px;
 }
