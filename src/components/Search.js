@@ -32,8 +32,6 @@ const Search = () => {
   }, [repos]);
   const getLatestRepo = () => {
     let latestRepo = repos.reduce(function (prev, current) {
-      console.log("prev ", prev);
-      console.log("current ", current);
       return new Date(prev.created_at) > new Date(current.created_at)
         ? prev
         : current;
@@ -41,8 +39,6 @@ const Search = () => {
 
     setLatestRepo(latestRepo);
   };
-
-  console.log(latestRepo);
 
   return (
     <div>
